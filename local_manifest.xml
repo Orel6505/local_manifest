@@ -16,6 +16,10 @@
    <remote name="LOS"
            fetch="https://github.com/LineageOS" />  
         
+        <remote name="ian"
+
+           fetch="https://github.com/iaiaian1"/>
+        
         <!-- Kernels -->
    <project path="kernel/xiaomi/sdm439" 
             name="android_kernel_xiaomi_sdm439"
