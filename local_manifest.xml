@@ -74,5 +74,9 @@
             groups="qcom,pdk-qcom" 
             revision="lineage-19.0-caf-msm8996" 
             remote="LOS" />
+        
+        <remove-project name="LineageOS/android_packages_resources_devicesettings" />
+
+<project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="hsx02" revision="lineage-18.1" />
      
 </manifest>
